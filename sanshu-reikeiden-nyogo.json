@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/reikeiden-nyogo",
  "yomi": "れいけいでんのにょうごうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "天暦10年（956）",
+  "author": "主催 麗景殿女御（荘子女王）",
+  "desc": "村上天皇の麗景殿女御荘子女王の歌合。梅花・鶯・月などの題の歌が、いくつかの断簡で残るだけで、『中務集』にも見える歌を含む。"
+ },
  "editions": [
   {
    "pid": "1128193",
